@@ -237,7 +237,6 @@ rfc3986==1.4.0
 rocketchat-API==0.6.36
 rope==0.16.0
 rsa==4.0
-Rtree==0.9.3
 ruamel-yaml==0.15.87
 s3transfer==0.3.3
 sanic==19.12.2
