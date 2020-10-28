@@ -136,7 +136,6 @@ msgpack==0.6.1
 multidict==4.7.5
 multipledispatch==0.6.0
 murmurhash==1.0.2
-navigator-updater==0.2.1
 nbconvert==5.6.1
 nbformat==5.0.4
 networkx==2.4
